@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "649595393292",
+    "project_id": "motus-39608",
+    "storage_bucket": "motus-39608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649595393292:android:7eb1c39ff0a704a48d6529",
+        "android_client_info": {
+          "package_name": "com.example.game_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649595393292-qs5oqblc5q250fpusr52aqo5ocoa5sua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Vv7BrTYUaB_eqalHq96gE8N9Nip4Q-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649595393292-qs5oqblc5q250fpusr52aqo5ocoa5sua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "649595393292-6vcuasg9c923hb54g7jg744afibgtjf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gameDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
