@@ -17,4 +17,4 @@
 - https://www.youtube.com/watch?v=x0uinJvhNxI - Flutter Crash Course
 
 ## Deployed Site:
-TBA
+https://appetize.io/app/rttwhrhaxnn0p4e77gznzgrgqc?device=iphone12&osVersion=14.5&scale=100
