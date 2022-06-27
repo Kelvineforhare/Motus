@@ -4,7 +4,7 @@
 
 ## Team Members:
 - Michael Adjei (k20054645)
-- Kesiena Eforhare (k20051389)
+- Kesiena Kelvin Eforhare (k20051389)
 - Nathan Essel (k2036035)
 - Allen Forjaz (k20015868)
 - Erdem Kuslu (k20032592)
